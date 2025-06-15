@@ -1,1 +1,2 @@
-测试
+文件、应用等资料下载
+上传请到https://github.com/lm-xiao-fen/link-clond/releases上传
